@@ -1,7 +1,7 @@
 packages: 
   ./ 
   ./pqexample
-with-compiler: /home/adam/src/ghc/ghc/_build/stage1/bin/ghc
+with-compiler: /home/adam/src/ghc/ghc-8.10/_build/stage1/bin/ghc
 extra-lib-dirs:
   /nix/store/4fpr03f1amjmn1lhcdb7pfqws92v3zcv-postgresql-11.9-lib/lib
 

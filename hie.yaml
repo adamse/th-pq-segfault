@@ -1,7 +1,7 @@
 cradle:
-  stack:
+  cabal:
     - path: "./src"
-      component: "example:lib"
+      component: "example"
 
     - path: "./pqexample/src"
-      component: "pqexample:lib"
+      component: "pqexample"
